@@ -22,3 +22,9 @@ td{
     right: 2px;
     color: #999;
 }
+
+.pixel{
+    width: 5px;
+    height: 5px;
+    border: 0;
+}
